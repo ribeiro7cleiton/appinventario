@@ -1,16 +1,31 @@
-# inventario
+# Flutter Inventario App
 
-A new Flutter project.
+Descrição
+O Inventario App é uma aplicação móvel desenvolvida em Flutter com o propósito de realizar a inventariação de produtos de forma eficiente e precisa. A principal funcionalidade do aplicativo é permitir a realização do inventário virtual por meio do mapeamento de códigos de barras, simplificando o processo de contagem e acompanhamento do estoque.
 
-## Getting Started
+Funcionalidades Principais
+Leitura de Códigos de Barras:
 
-This project is a starting point for a Flutter application.
+Utiliza a câmera do dispositivo para escanear códigos de barras dos produtos.
 
-A few resources to get you started if this is your first Flutter project:
+Mapeamento Virtual:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Associa automaticamente os códigos de barras aos produtos correspondentes, criando um inventário virtual.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Interface Intuitiva:
+
+Design amigável e intuitivo para uma experiência do usuário eficaz.
+
+Pré-requisitos
+Flutter SDK instalado
+Dependências do projeto instaladas (consulte o arquivo pubspec.yaml)
+
+Como Iniciar
+Instale as dependências:
+
+flutter pub get
+Execute o aplicativo:
+flutter run
+
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests para melhorar o aplicativo.
